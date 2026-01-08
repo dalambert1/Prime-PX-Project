@@ -26,6 +26,7 @@ If you need to use links, here's an example:
 | ----------- | ----------- |
 | Header      | Title       | 
 | Paragraph   | Text        |
+
 Limitations
 
 Market fluctuations:
@@ -55,6 +56,15 @@ Incorporate geospatial data (GIS) to account for location-based price trends.
 
 Develop user-friendly applications:
 
+##Summary
+Option 1:
+"SmartCabinPrice Predictor uses AI to predict cabin prices based on features such as size, sauna, distance to lake, and number of toilets, helping buyers and sellers make faster, data-driven, and accurate pricing decisions."
+
+Option 2:
+"An AI tool that estimates cabin prices from key features like size, amenities, and location. SmartCabinPrice Predictor supports buyers, sellers, and agents by providing quick and reliable data-driven price guidance."
+
+Option 3:
+"SmartCabinPrice Predictor leverages historical cabin data and a neural network to forecast property prices, assisting users in making informed, fair, and efficient pricing choices for buying or selling cabins."
 Create a web or mobile app where buyers and sellers can input cabin features and receive price predictions instantly.
 
 Add visualizations like charts and maps to make predictions more intuitive.
